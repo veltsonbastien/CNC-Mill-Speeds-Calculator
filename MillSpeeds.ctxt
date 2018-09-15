@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=mat
+comment0.target=void\ setMaterial(java.lang.String)
+comment1.params=mat
+comment1.target=java.lang.String\ getMaterial(java.lang.String)
+comment2.params=cS
+comment2.target=void\ getCuttingSpeed(int)
+comment3.params=cS
+comment3.target=int\ setCuttingSpeed(int)
+comment4.params=
+comment4.target=java.lang.String\ showStats()
+comment5.params=material\ cuttingSpeed
+comment5.target=MillSpeeds(java.lang.String,\ int)
+numComments=6
